@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    ost = Happy
+    print(type(0st))
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11111#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/11111#comment">JetBrains
+    Academy</a></html>
+  time: Fri, 13 Nov 2020 02:33:53 UTC
+record: -1
